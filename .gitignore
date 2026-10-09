@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+__pycache__/
+dist/
+reports/
+*.log
+.vscode/
